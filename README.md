@@ -1,6 +1,6 @@
 ### File merger
 
-## this is a high performance,lightweight Command-Line Interface (CLI) python application that merges your chosen pdf files into a pdf file called 'Combined_Document.pdf'.
+# this is a high performance,lightweight Command-Line Interface (CLI) python application that merges your chosen pdf files into a pdf file called 'Combined_Document.pdf'.
 
 ## how to use
 
@@ -31,3 +31,11 @@ ProjectFolder/
  ├── pdf2.pdf   *can add more
  ├── Combined.Document.pdf   
  └── README.md
+
+##  Author
+
+**Raha Algethami**
+
+Computer Engineering Student  
+Taif University  
+Saudi Arabia 🇸🇦
