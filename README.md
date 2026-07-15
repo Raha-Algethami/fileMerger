@@ -1,4 +1,4 @@
-###File merger
+### File merger
 
 this is a high performance,lightweight Command-Line Interface (CLI) python application that merges your chosen pdf files into a pdf file called 'Combined_Document.pdf'.
 
