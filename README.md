@@ -31,7 +31,7 @@ ProjectFolder/
  ├── pdf2.pdf   *can add more
  ├── Combined.Document.pdf   
  └── README.md
-
+```
 ##  Author
 
 **Raha Algethami**
